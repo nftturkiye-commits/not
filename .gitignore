@@ -1,0 +1,22 @@
+# Ignore generated PDFs and output folder
+output/
+*.pdf
+
+# macOS folder attributes
+.DS_Store
+
+# InDesign backup files
+*.idml~
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Node or other temporary files (if ever added)
+node_modules/
+npm-debug.log
