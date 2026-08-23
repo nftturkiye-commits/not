@@ -1,0 +1,15 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# InDesign temporary files
+*.indb
+
+# Word temporary files
+~$*.docx
+
+# Build outputs
+/build/
